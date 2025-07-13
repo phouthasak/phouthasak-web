@@ -11,7 +11,7 @@ export const INTUIT_PRODUCT_URL: string = 'https://www.intuit.com/products/';
 export const NORPLAS_TITLE: string = 'Norplas Industries';
 export const JPMORGAN_TITLE: string = 'JPMorgan Chase & CO';
 export const ZOOM_TITLE: string = 'Zoom';
-export const INTUIT_TITLE: string = 'INTUIT';
+export const INTUIT_TITLE: string = 'Intuit';
 export const FUEL_CYCLE_TITLE: string = 'Fuel Cycle';
 
 export const NORPLAS_JOB_TITLE: string = 'Intern Software Engineer (Northwood, OH)';
