@@ -7,6 +7,8 @@ export const RESUME_URL: string = 'https://drive.google.com/file/d/1FgOxr8E1PAP5
 export const ZOOM_EVENTS_EXPO_URL: string = 'https://www.zoom.com/en/blog/create-virtual-event-interaction-with-zoom-events-expo/';
 export const RESEARCH_ENGINE_URL: string = 'https://fuelcycle.com/research-engine/';
 export const INTUIT_PRODUCT_URL: string = 'https://www.intuit.com/products/';
+export const COMMUNITY_BY_FC_PLAY_STORE: string = 'https://play.google.com/store/apps/details?id=com.fuelcycle.multitenant&hl=en_US';
+export const COMMUNITY_BY_FC_APP_STORE: string = 'https://apps.apple.com/us/app/community-by-fuel-cycle/id1315205205';
 
 export const NORPLAS_TITLE: string = 'Norplas Industries';
 export const JPMORGAN_TITLE: string = 'JPMorgan Chase & CO';

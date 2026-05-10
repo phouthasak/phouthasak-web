@@ -158,14 +158,19 @@ p, a, h1, h2, h3, h4, h5, label, button {
   color: #ffffff;
 }
 
-#product-summary svg {
-  color: #0d1116;
-}
+#product-summary {
+  display: flex;
+  flex-direction: column;
 
-#product-summary a {
-  color: #5000ca;
-}
+  svg {
+    color: #0d1116;
+  }
 
-#product-summary a:hover {
-  color: #1565c0;
+  a {
+    color: #5000ca;
+  }
+
+  a:hover {
+    color: #1565c0;
+  }
 }
